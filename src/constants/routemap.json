@@ -1,0 +1,14 @@
+{
+	"AUTH": {
+		"login": "/",
+		"register": "/sign-up"
+	},
+	"USER": {
+		"base": "/dashboard",
+		"products": "/dashboard/products",
+		"customers": "/dashboard/customers",
+		"income": "/dashboard/income",
+		"promote": "/dashboard/promote",
+		"help": "/dashboard/help"
+	}
+}
